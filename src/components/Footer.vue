@@ -18,7 +18,7 @@ export default {
 <style scoped>
 
 #line {
-  position: absolute;
+  position: absolute; 
   z-index: -1;
   width: 1270px;
   height: 45px;
